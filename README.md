@@ -5,14 +5,14 @@
 - 📫 You can reach me on my email address: dexxavr00@gmail.com
 
 Tehniques i know: 
-- HTML/HTML5
+- JavaScript
 - CSS & CSS Preproccesor SASS
+- HTML/HTML5
 - Responsive design
 - UI/UX & Figma basics
-- Boostrap & Bulma basics
-- JavaScript
+- Boostrap & Bulma basic
 - TypeScript basics
-- RegEx
+- RegExp
 
 I'm always eager to learn new tqhniques and upgrade my knowledge each day.
 Being a hard-working person and learning dedication I suppose are my probably the best qualities. 
