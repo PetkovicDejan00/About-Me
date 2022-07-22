@@ -9,10 +9,10 @@ Tehniques i know:
 - CSS & CSS Preproccesor SASS
 - HTML/HTML5
 - Responsive design
+- React basics
 - UI/UX & Figma basics
 - Boostrap & Bulma basic
 - TypeScript basics
-- RegExp
 
 I'm always eager to learn new tqhniques and upgrade my knowledge each day.
 Being a hard-working person and learning dedication I suppose are my probably the best qualities. 
