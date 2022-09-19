@@ -6,10 +6,10 @@
 
 Tehniques i know: 
 - JavaScript
+- React (Hooks, Styled Components, Router, Redux, React Query, React Formik..)
 - CSS & CSS Preproccesor SASS
 - HTML/HTML5
 - Responsive design
-- React basics
 - UI/UX & Figma basics
 - Boostrap & Bulma basic
 - TypeScript basics
