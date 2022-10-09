@@ -6,7 +6,7 @@
 
 Tehniques i know: 
 - JavaScript
-- React (Hooks, Styled Components, Router, Redux + Toolkit, React Query, React Formik..)
+- React (Hooks, Styled Components, Router, React Query, React Formik..)
 - CSS & CSS Preproccesor SASS
 - HTML/HTML5
 - Responsive design
